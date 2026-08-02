@@ -46,11 +46,11 @@
 
 ### Cloud & DevOps
 
-<img src="https://www.readmecodegen.com/api/social-icon?name=docker%2Cgooglecloud%2Cgit%2Cgithub%2Cdigitalocean%2Cxampp&size=56&reverseBackground=true" alt="docker-googlecloud-git-github-digitalocean-xampp" />
+<img src="https://www.readmecodegen.com/api/social-icon?name=docker%2Cgooglecloud%2Cgit%2Cgithub%2Cdigitalocean%2Cxampp%2Capacheairflow%2Cdatadog&size=56&reverseBackground=true" alt="docker-googlecloud-git-github-digitalocean-xampp-apacheairflow-datadog" />
 - vLLM
 
 ### Dev Tools & PM
-<img src="https://www.readmecodegen.com/api/social-icon?name=jira%2Cclickup%2Cconfluence%2Cdatadog&size=56&reverseBackground=true" alt="jira-clickup-confluence-datadog" />
+<img src="https://www.readmecodegen.com/api/social-icon?name=jira%2Cclickup%2Cconfluence&size=56&reverseBackground=true" alt="jira-clickup-confluence" />
 
 ### Web Application Frameworks, Design and Prtotyping
 <img src="https://www.readmecodegen.com/api/social-icon?name=gradio%2Cstreamlit%2Cfigma%2Ccanva&size=56&reverseBackground=true" alt="gradio-streamlit-figma-canva" />
