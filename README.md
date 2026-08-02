@@ -77,7 +77,7 @@
 
 ###
 
-### 🌐 Connect with Me
+### 🌐 Find me on
 <div align="center">
   
 [![LinedIn](https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge)](https://www.linkedin.com/in/shiny-fernando-7367b0282/)&nbsp;&nbsp;&nbsp;
