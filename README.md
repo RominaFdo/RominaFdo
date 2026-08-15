@@ -82,9 +82,9 @@
   
 [![LinedIn](https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge)](https://www.linkedin.com/in/shiny-fernando-7367b0282/)&nbsp;&nbsp;&nbsp;
 [![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-FE7A16?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/18693599/shiny)&nbsp;&nbsp;&nbsp;
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/https://www.kaggle.com/shinyfernando)&nbsp;&nbsp;&nbsp;
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/https://medium.com/@shinyfernando719)&nbsp;&nbsp;&nbsp;
-[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://hackerrank.com/https://www.hackerrank.com/profile/shinyfernando719)&nbsp;&nbsp;&nbsp;
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/shinyfernando)&nbsp;&nbsp;&nbsp;
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@shinyfernando719)&nbsp;&nbsp;&nbsp;
+[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/shinyfernando719)&nbsp;&nbsp;&nbsp;
 [![HuggingFacw](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=white)](https://huggingface.co/datasets/Romina719)
 
 </div>
