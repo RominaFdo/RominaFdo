@@ -59,6 +59,9 @@
 <img src="https://www.readmecodegen.com/api/social-icon?name=arduino&size=56&reverseBackground=true" alt="arduino" />
 
 ##
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RominaFdo&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=donut&langs_count=10&border_radius=5&size_weight=0.5&count_weight=0.5" height="300" alt="Top Languages donut chart" /> </div>
+
+##
 
 <br clear="both">
 
